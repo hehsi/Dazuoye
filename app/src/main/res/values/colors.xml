@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors -->
+    <color name="primary_blue">#FF2196F3</color>
+    <color name="primary_blue_light">#FFE3F2FD</color>
+    <color name="primary_blue_variant">#FF1976D2</color>
+    <color name="primary_blue_liked">#FF42A5F5</color>
+
+    <!-- Background Colors -->
+    <color name="background_white">#FFFFFFFF</color>
+    <color name="background_light_gray">#FFF5F5F5</color>
+    <color name="background_very_light_gray">#FFF9F9F9</color>
+    <color name="background_user_message">#FF2196F3</color>
+    <color name="background_ai_message">#FFF5F5F5</color>
+    <color name="background_avatar">#FFE3F2FD</color>
+    <color name="background_liked_message">#FFE3F2FD</color>
+
+    <!-- Editing State Colors -->
+    <color name="editing_background">#FFFFF3E0</color>
+    <color name="editing_border">#FFF57C00</color>
+    <color name="editing_border_alpha">#40F57C00</color>
+    <color name="editing_icon_background">#1FF57C00</color>
+    <color name="editing_text_primary">#FF4A2C0A</color>
+    <color name="editing_text_secondary">#FF8C6A3F</color>
+    <color name="editing_text_dark">#FFE65100</color>
+    <color name="editing_button">#FFB34700</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF424242</color>
+    <color name="text_tertiary">#FF757575</color>
+    <color name="text_hint">#FF9E9E9E</color>
+    <color name="text_disabled">#FF666666</color>
+    <color name="text_white">#FFFFFFFF</color>
+
+    <!-- Border and Divider Colors -->
+    <color name="divider_light">#FFE0E0E0</color>
+    <color name="divider_very_light">#FFEEEEEE</color>
+    <color name="border_light">#FFE0E0E0</color>
+    <color name="border_liked">#9942A5F5</color>
+    <color name="border_editing">#FFF57C00</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_orange">#FFFFA726</color>
+    <color name="accent_orange_shadow">#80FFA726</color>
+    <color name="accent_red">#FFFF0000</color>
+
+    <!-- Shadow Colors -->
+    <color name="shadow_editing_spot">#80FFA726</color>
+    <color name="shadow_editing_ambient">#4DFFA726</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+</resources>

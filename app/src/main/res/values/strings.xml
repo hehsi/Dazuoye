@@ -1,0 +1,79 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Tong</string>
+
+    <!-- Chat Screen -->
+    <string name="chat_title_new">新对话</string>
+    <string name="chat_subtitle">内容由 AI 生成</string>
+    <string name="chat_input_hint">输入消息…</string>
+    <string name="chat_input_hint_editing">修改消息…</string>
+    <string name="chat_send_button_desc">发送</string>
+    <string name="chat_resend_button_desc">重新发送</string>
+    <string name="chat_thinking">正在思考…</string>
+    <string name="chat_copied_to_clipboard">已复制到剪贴板</string>
+
+    <!-- Welcome Message -->
+    <string name="welcome_message">嗨，我是你的新朋友Tong！初次见面很开心。\n我呢，可以回答你的各种问题，给你工作学习上提供帮助，还能随时陪你聊天。嗨，你想问点什么呢？</string>
+
+    <!-- Suggestion Questions -->
+    <string name="suggestion_1">三角洲行动最强改枪搭配是什么？</string>
+    <string name="suggestion_2">Java和C++哪个更适合</string>
+    <string name="suggestion_3">5090显卡和4090怎么选？</string>
+    <string name="suggestion_4">帮我找一款耐玩的单人游戏</string>
+    <string name="suggestion_5">找找关于乌鲁木齐的历史故事给我听</string>
+
+    <!-- Quick Actions -->
+    <string name="quick_action_deep_thinking">深度思考</string>
+    <string name="quick_action_ai_art">TongtongP图</string>
+    <string name="quick_action_photo_qa">拍题答疑</string>
+    <string name="quick_action_ai_creative">AI创意</string>
+
+    <!-- Message Bubble Menu -->
+    <string name="menu_copy">复制</string>
+    <string name="menu_edit">编辑</string>
+    <string name="menu_like">点赞</string>
+    <string name="menu_unlike">取消点赞</string>
+    <string name="message_liked">已赞</string>
+
+    <!-- Editing State -->
+    <string name="editing_title">正在编辑</string>
+    <string name="editing_hint">发送前可继续修改或取消</string>
+    <string name="editing_cancel">取消</string>
+
+    <!-- Conversation List -->
+    <string name="conversation_list_title">聊天记录</string>
+    <string name="conversation_new">新建对话</string>
+    <string name="conversation_delete">删除对话</string>
+    <string name="conversation_delete_title">删除对话</string>
+    <string name="conversation_delete_message">确定要删除对话 \"%1$s\" 吗？此操作无法撤销。</string>
+    <string name="conversation_delete_confirm">删除</string>
+    <string name="conversation_delete_cancel">取消</string>
+    <string name="conversation_empty">还没有对话记录</string>
+    <string name="conversation_start_new">开始新对话</string>
+
+    <!-- Time Formats -->
+    <string name="time_just_now">刚刚</string>
+    <string name="time_minutes_ago">%d分钟前</string>
+    <string name="time_hours_ago">%d小时前</string>
+    <string name="time_days_ago">%d天前</string>
+
+    <!-- Content Descriptions -->
+    <string name="desc_ai_avatar">AI头像</string>
+    <string name="desc_menu">聊天记录</string>
+    <string name="desc_more">更多</string>
+    <string name="desc_camera">相机</string>
+    <string name="desc_liked">已点赞</string>
+    <string name="desc_new_conversation">新建对话</string>
+    <string name="desc_delete_conversation">删除对话</string>
+
+    <!-- Actions -->
+    <string name="action_close">关闭</string>
+
+    <!-- Model Selection -->
+    <string name="model_local">本地模型</string>
+    <string name="model_remote">远程模型</string>
+    <string name="desc_model_select">选择模型</string>
+
+    <!-- Suggestions -->
+    <string name="suggestions_loading">正在为您生成推荐问题…</string>
+</resources>
